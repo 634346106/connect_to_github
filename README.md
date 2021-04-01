@@ -1,1 +1,1 @@
-Eric's git test
+this is a txt file
